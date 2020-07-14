@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Main.qml</file>
+        <file>theme.conf</file>
+        <file>background.png</file>
+        <file>LoginRectangle.qml</file>
+        <file>LoginRectangleForm.ui.qml</file>
+        <file>Divider.qml</file>
+        <file>DividerForm.ui.qml</file>
+        <file>LoginPrompt.qml</file>
+        <file>LoginPromptForm.ui.qml</file>
+        <file>xorg.png</file>
+        <file>VirtualKeyboard.qml</file>
+    </qresource>
+</RCC>

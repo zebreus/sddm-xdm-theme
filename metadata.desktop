@@ -1,0 +1,14 @@
+[SddmGreeterTheme]
+Name=Xdm
+Description=Xdm Theme
+Author=madmanfred
+Copyright=(c) 2020, madmanfred
+License=CC-BY-SA
+Type=sddm-theme
+Version=0.1
+Website=https://github.com/zebreus/sddm-xdm-theme
+Screenshot=maldives.jpg
+MainScript=Main.qml
+ConfigFile=theme.conf
+Theme-Id=sddm-xdm
+Theme-API=2.0
